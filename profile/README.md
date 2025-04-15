@@ -1,51 +1,61 @@
-# Welcome to Two Palms Creative 🌴
+# Hey there! Welcome to Two Palms Creative 🌴
 
-Branded WordPress themes with personality.  
-Built for creative entrepreneurs, service providers, and small businesses who want their site to *feel like them*—strategic, stylish, and seriously standout.
+I'm Ashley — creative strategist, frontend WordPress developer, and the heart behind Two Palms Creative.
 
----
-
-## 💻 What We Do
-
-We create modern, block-based WordPress themes designed to:
-
-- Tell your brand story clearly
-- Look beautiful across devices
-- Be easy to edit (even if you’re not “techy”)
-- Load fast + perform like a dream
-
-Our themes are built using WordPress Full Site Editing (FSE) and follow best practices for accessibility, SEO, and performance.
+Here, I build branded WordPress themes with personality. Each one is crafted for creative entrepreneurs, small business owners, and service providers who want a site that actually *feels like them* — strategic, stylish, and seriously standout.
 
 ---
 
-## 🧱 Our Theme Ecosystem
+## ✨ What I’m Building
 
-### 🔹 [`tpc-base-theme`](https://github.com/twopalmscreative/tpc-base-theme)
-Our foundational theme—built on top of [WDS-BT](https://github.com/WebDevStudios/WDS-BT) and customized for TPC projects. This is where shared functionality, styling standards, and structural elements live.
+At Two Palms Creative, I focus on creating modern, block-based WordPress themes using Full Site Editing (FSE).
 
-### 🌺 `verve-theme` (coming soon!)
-A bold and editorial theme designed for brands with something to say.
+All my themes are designed to be:
 
-### 🌿 `bloom-theme` (coming soon!)
-A softer, more romantic aesthetic for coaches, creatives, and lifestyle brands.
+- 🧠 **Strategy-first** – built around brand clarity + clear messaging
+- 🎨 **Visually distinct** – layouts that feel fresh, not cookie-cutter
+- 🛠️ **Easy to edit** – no code needed, just click + customize
+- ⚡ **Fast + flexible** – optimized for performance + scalability
 
-Themes are fully customizable, lightning-fast, and built with intention—inside and out.
-
----
-
-## 🛠 Built by [Ashley](https://github.com/amarie4224)
-
-Hey! I’m Ashley 👋  
-I’m a creative strategist + frontend WordPress developer with a love for building beautiful digital homes that feel like *you.* Two Palms Creative is my one-woman studio where storytelling, strategy, and design come together.
+They're built for people who care about design *and* want a site that works hard behind the scenes.
 
 ---
 
-## 🚀 Let’s Connect
+## 🔨 Theme Ecosystem
 
-💻 [twopalmscreative.co](https://twopalmscreative.co)  
-📸 [@twopalmscreative.co](https://instagram.com/twopalmscreative.co)  
-📬 hello@ashleymstanley.com
+### [`tpc-base-theme`](https://github.com/twopalmscreative/tpc-base-theme)
+The foundation of every theme I create. Built on top of [WDS-BT](https://github.com/WebDevStudios/WDS-BT), this is where all the core logic, accessibility improvements, and block styling lives.
+
+### Coming Soon:
+
+- 🌺 `verve-theme` – a bold, editorial-inspired theme built for brands with something to say
+- 🌿 `bloom-theme` – a softer, romantic layout perfect for coaches + creatives
+- 🔥 More specialty themes coming in 2025
 
 ---
 
-> Whether you're launching your first site or looking for a better theme for your brand, you're in the right place.
+## 🧠 Why Themes?
+
+Not everyone needs a custom site—but everyone deserves a site that feels custom.
+
+TPC themes are the bridge between templates that fall flat and expensive builds that take months. They’re designed with your voice + visuals in mind, so you can launch confidently and grow with ease.
+
+---
+
+## 👋 A Little About Me
+
+I’m Ashley — a frontend WordPress developer who loves transforming ideas into digital spaces that *feel like home*. I’ve worked with brands big and small, built dozens of websites, and now I’m turning that experience into ready-to-go themes you’ll actually enjoy using.
+
+When I’m not deep in code or colors, you’ll find me exploring Charleston, hosting game nights, or chasing the sunshine.
+
+---
+
+## 💌 Stay Connected
+
+Website: [twopalmscreative.co](https://twopalmscreative.co)  
+Instagram: [@twopalmscreative.co](https://instagram.com/twopalmscreative.co)  
+Email: hello@ashleymstanley.com
+
+---
+
+> Thanks for stopping by the repo! Whether you're here to explore, collaborate, or build something beautiful — I’m so glad you’re here.
